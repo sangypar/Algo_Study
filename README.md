@@ -6,7 +6,7 @@
 ### 문제 풀이 상황
 | 날짜 | 문제 출제자 | 문제 | 문제 링크 | 
 |--------|------|-------|-------|
-| 2024.06.16 | 정상영 | 과제 진행하기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 
+| 2024.06.16 | 정상영 | 과제 진행하기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176962)) | 
 | 2024.06.16 | 정상영 | 빙산 | ([문제 링크](https://www.acmicpc.net/problem/2573)) |
 
 
