@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // 백준2573_빙산 
 // 새 배열 만들어서 빙산 녹이는 함수
-// 빙산 갯수 세기 DFS
+// 빙산 갯수 세기 : DFS
 // 메모리 : 202,756KB, 시간 : 1024ms
 public class Main_2573_빙산 {
 
