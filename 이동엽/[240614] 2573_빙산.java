@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-// 백준2573_빙산 DFS로 풀었음.
+// 백준2573_빙산 
+// 새 배열 만들어서 빙산 녹이는 함수
+// 빙산 갯수 세기 DFS
+// 메모리 : 202,756KB, 시간 : 1024ms
 public class Main_2573_빙산 {
 
 	static int n, m, iceberg[][];
@@ -52,7 +55,7 @@ public class Main_2573_빙산 {
 		sc.close();
 	}
 
-	static void melt() {
+	static void melt() { // 배열 새로 만들어서 녹였어야 하는데 빙산 배열 직접 녹여서 계속 틀렸었음.
 		int[][] temp = new int[n][m];
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++) {
@@ -70,7 +73,7 @@ public class Main_2573_빙산 {
 			}
 		}
 		iceberg = temp;
-	} // 빙산 녹이는 과정 직접 빙산배열 녹이다가 고생함. 배열 따로 만들어서 녹여야 함.
+	} // melt
 
 	static void separate(int x, int y) {
 		visited[x][y] = true;
