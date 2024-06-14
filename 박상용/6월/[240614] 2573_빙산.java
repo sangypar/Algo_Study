@@ -12,7 +12,7 @@ public class psy_2573_빙산 {
 	static int[] dc = { -0, 0, -1, 1 };
 	static boolean[][] visited; // 방문 체크 2차원 배열
 
-	static class Node { // bfs를 위한 class
+	static class Node { // bfs를 위한 클래스
 		int r;
 		int c;
 
