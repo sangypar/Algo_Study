@@ -5,7 +5,8 @@
 ## 🎈 백준
 | 푼 날짜 | 문제 출제자 | 문제 링크 | 
 |--------|------|----------|
-| 2024.06.16 | 정상영 | ([빙산](https://www.acmicpc.net/problem/2573)) |
+| 2024.06.16 | 정상영 | [빙산](https://www.acmicpc.net/problem/2573) |
+| 2024.06.19 | 최이서 | [집합의 표현](https://www.acmicpc.net/problem/1717) |
 
 ## 🎀 프로그래머스
 
@@ -23,7 +24,8 @@
 
 ## 🎀 프로그래머스
 
-| 날짜 | 문제 출제자 | 문제 링크 | 
-|--------|------|----------|
-| 2024.06.16 | 정상영 | ([과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)) | 
+| 날짜 | 문제 출제자 | 문제 링크 | 비고 |
+|--------|------|----------|-----|
+| 2024.06.16 | 정상영 | ([과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)) | 못 푼 문제 |
+| 2024.06.19 | 최이서 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 다른 풀이가 있음 |
 
