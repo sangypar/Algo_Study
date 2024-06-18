@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // 백준 골드V, 집합의 표현
-// 유니온 파인드
+// Union Find
 // 메모리 : 230,272KB, 시간 : 1,048ms
 public class Main {
 
