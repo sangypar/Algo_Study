@@ -10,6 +10,8 @@
 | 2024.06.16 | 정상영 | 빙산 | ([문제 링크](https://www.acmicpc.net/problem/2573)) |
 | 2024.06.19 | 최이서 | 집합의 표현 | ([문제 링크](https://www.acmicpc.net/problem/1717)) |
 | 2024.06.19 | 최이서 | 큰 수 만들기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42883)) |
+<!--| 2024.06.23 | 이동엽 | 단어 수학 | ([문제 링크](https://www.acmicpc.net/problem/1339)) |
+| 2024.06.23 | 이동엽 | 이모티콘 할인행사 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150368)) |-->
 
 <br>
 ---------------------------------------------------
