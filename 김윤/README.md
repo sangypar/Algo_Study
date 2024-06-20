@@ -9,6 +9,7 @@
 |240615|백준|2573_빙산|[빙산](https://www.acmicpc.net/problem/2573)|
 |240618|백준|1717_집합의 표현|[집합의 표현](https://www.acmicpc.net/problem/1717)|
 |240618|프로그래머스|큰 수 만들기|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|
+|240620|백준|1717_단어 수학|[단어 수학](https://www.acmicpc.net/problem/1339)|
 
 <br/>
 
