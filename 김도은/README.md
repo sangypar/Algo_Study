@@ -29,4 +29,5 @@
 |--------|------|----------|-----|
 | 2024.06.16 | 정상영 | ([과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)) | 못 푼 문제 |
 | 2024.06.19 | 최이서 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 다른 풀이가 있음 |
+| 2024.06.23 | 이동엽 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)) | 못 푼 문제 |
 
