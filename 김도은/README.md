@@ -7,6 +7,7 @@
 |--------|------|----------|
 | 2024.06.16 | 정상영 | [빙산](https://www.acmicpc.net/problem/2573) |
 | 2024.06.19 | 최이서 | [집합의 표현](https://www.acmicpc.net/problem/1717) |
+| 2024.06.23 | 이동엽 | [단어 수학](https://www.acmicpc.net/problem/1339)) |
 
 ## 🎀 프로그래머스
 
