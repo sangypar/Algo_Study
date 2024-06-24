@@ -40,7 +40,6 @@ public class Main_14719 {
 		}
 		
 		System.out.println(result);
-		
 	}
 	
 }
