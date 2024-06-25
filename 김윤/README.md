@@ -23,3 +23,4 @@
 |:-------:|:---------:|:-------:|:-------:|
 |240615|프로그래머스|과제 제출하기|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
 |240622|프로그래머스|이모티콘 할인행사|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|
+|240625|프로그래머스|양궁대회|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
