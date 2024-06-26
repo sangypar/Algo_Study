@@ -15,7 +15,7 @@
 | 2024.06.26 | 김도은 | 빗물 | ([문제 링크](https://www.acmicpc.net/problem/14719)) |
 | 2024.06.26 | 김도은 | 양궁대회 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92342)) |
 | 2024.06.30 | 김윤 | 치킨 배달 | ([문제 링크](https://www.acmicpc.net/problem/15686)) |
-| 2024.06.30 | 김윤 | 피로 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946)) |
+| 2024.06.30 | 김윤 | 피로도 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946)) |
 
 <br>
 ---------------------------------------------------
