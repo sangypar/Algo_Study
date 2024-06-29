@@ -11,6 +11,7 @@
 |240618|프로그래머스|큰 수 만들기|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|
 |240620|백준|1717_단어 수학|[단어 수학](https://www.acmicpc.net/problem/1339)|
 |240624|백준|14719_빗물|[빗물](https://www.acmicpc.net/problem/14719)|
+|240629|백준|15686_치킨 배달|[치킨 배달](https://www.acmicpc.net/problem/15686)|
 
 <br/>
 
