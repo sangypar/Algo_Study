@@ -17,7 +17,7 @@
 | 2024.06.30 | 김윤 | 치킨 배달 | ([문제 링크](https://www.acmicpc.net/problem/15686)) |
 | 2024.06.30 | 김윤 | 피로도 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946)) |
 | 2024.07.03 | 박상용 | 택배 배송 | ([문제 링크](https://www.acmicpc.net/problem/5972)) |
-| 2024.07.03 | 박상용 | 피로도 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=java)) |
+| 2024.07.03 | 박상용 | 메뉴 리뉴얼 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=java)) |
 
 <br>
 ---------------------------------------------------
