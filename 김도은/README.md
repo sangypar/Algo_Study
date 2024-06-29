@@ -9,6 +9,7 @@
 | 2024.06.19 | 최이서 | [집합의 표현](https://www.acmicpc.net/problem/1717) |
 | 2024.06.23 | 이동엽 | [단어 수학](https://www.acmicpc.net/problem/1339)) |
 | 2024.06.26 | 김도은 | [빗물](https://www.acmicpc.net/problem/14719) |
+| 2024.06.30 | 김윤 | ]치킨 배달](https://www.acmicpc.net/problem/15686)) |
 
 ## 🎀 프로그래머스
 
