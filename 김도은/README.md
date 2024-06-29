@@ -7,7 +7,7 @@
 |--------|------|----------|
 | 2024.06.16 | 정상영 | [빙산](https://www.acmicpc.net/problem/2573) |
 | 2024.06.19 | 최이서 | [집합의 표현](https://www.acmicpc.net/problem/1717) |
-| 2024.06.23 | 이동엽 | [단어 수학](https://www.acmicpc.net/problem/1339)) |
+| 2024.06.23 | 이동엽 | [단어 수학](https://www.acmicpc.net/problem/1339) |
 | 2024.06.26 | 김도은 | [빗물](https://www.acmicpc.net/problem/14719) |
 | 2024.06.30 | 김윤 | [치킨 배달](https://www.acmicpc.net/problem/15686) |
 
@@ -15,7 +15,7 @@
 
 | 푼 날짜 | 문제 출제자 | 문제 링크 | 
 |--------|------|----------|
-|  |  |   | 
+| 2024.06.30 | 김윤 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
 
 ## 🎐 SWEA
 | 푼 날짜 | 문제 출제자 | 문제 링크 | 
