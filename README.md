@@ -18,6 +18,8 @@
 | 2024.06.30 | 김윤 | 피로도 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946)) |
 | 2024.07.03 | 박상용 | 택배 배송 | ([문제 링크](https://www.acmicpc.net/problem/5972)) |
 | 2024.07.03 | 박상용 | 메뉴 리뉴얼 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=java)) |
+| 2024.07.07 | 김유석 | 파티 | ([문제 링크](https://www.acmicpc.net/problem/1238)) |
+| 2024.07.07 | 김유석 | 성적 평가 | ([문제 링크](https://softeer.ai/practice/6250)) |
 
 <br>
 ---------------------------------------------------
@@ -39,4 +41,5 @@ ex) [240601] 1436_영화감독 숌
 [백준] 문제번호_문제제목
 [SWEA] 문제번호_문제제목
 [프로그래머스] 문제번호_문제제목
+[소프티어]_문제제목
 ```
