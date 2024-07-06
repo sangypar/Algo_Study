@@ -13,6 +13,7 @@
 |240624|백준|14719_빗물|[빗물](https://www.acmicpc.net/problem/14719)|
 |240629|백준|15686_치킨 배달|[치킨 배달](https://www.acmicpc.net/problem/15686)|
 |240629|프로그래머스|피로도|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|
+|240701|백준|5972_택배 배송|[택배 배송](https://www.acmicpc.net/problem/5972)|
 
 <br/>
 
@@ -26,4 +27,5 @@
 |240615|프로그래머스|과제 제출하기|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
 |240622|프로그래머스|이모티콘 할인행사|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|
 |240625|프로그래머스|양궁대회|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
-|240701|백준|5972_택배 배송|[택배 배송](https://www.acmicpc.net/problem/5972)|
+|240702|프로그래머스|메뉴 리뉴얼|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
+
