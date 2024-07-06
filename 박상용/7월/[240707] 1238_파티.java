@@ -37,7 +37,7 @@ public class psy_1238_파티 {
 
 		int result = 0;
 		for (int i = 0; i < N; i++) {
-				result = Math.max(result, arr[i][X] + arr[X][i]);
+			result = Math.max(result, arr[i][X] + arr[X][i]);
 		}
 
 		System.out.println(result);
