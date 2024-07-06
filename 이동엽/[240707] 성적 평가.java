@@ -25,7 +25,7 @@ public class Main_성적평가 {
             Arrays.sort(sortedScore);
 
             for (int j = 0; j < n; j++) {
-                sb.append(String.valueOf(n + 1 - binarySearch(sortedScore, score[j])) + " ");
+                sb.append(n + 1 - binarySearch(sortedScore, score[j]) + " ");
             }
             sb.append("\n");
         }
@@ -33,7 +33,7 @@ public class Main_성적평가 {
         Arrays.sort(sortedSum);
 
         for (int i = 0; i < n; i++) {
-           sb.append(String.valueOf(n + 1 - binarySearch(sortedSum, sum[i])) + " ");
+           sb.append(n + 1 - binarySearch(sortedSum, sum[i]) + " ");
         }
         System.out.println(sb);
         sc.close();
