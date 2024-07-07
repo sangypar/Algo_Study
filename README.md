@@ -20,6 +20,8 @@
 | 2024.07.03 | 박상용 | 메뉴 리뉴얼 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=java)) |
 | 2024.07.07 | 김유석 | 파티 | ([문제 링크](https://www.acmicpc.net/problem/1238)) |
 | 2024.07.07 | 김유석 | 성적 평가 | ([문제 링크](https://softeer.ai/practice/6250)) |
+| 2024.07.10 | 정상영 | 로봇이 지나간 경로 | ([문제 링크](https://softeer.ai/practice/6275)) |
+| 2024.07.10 | 정상영 | 특이한 자석 | ([문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=4)) |
 
 <br>
 ---------------------------------------------------
