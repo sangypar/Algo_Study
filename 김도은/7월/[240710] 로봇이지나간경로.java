@@ -118,7 +118,6 @@ public class 로봇이지나간경로 {
 					// 방향이 다르다면?
 					char turn = findDir(currentDirection, d);
 					sb.append(turn);
-					currentDirection = d;
 
 					currentDirection = d; // 방향을 바꿔줘야해
 
