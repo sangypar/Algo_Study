@@ -28,4 +28,6 @@
 |240622|프로그래머스|이모티콘 할인행사|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|
 |240625|프로그래머스|양궁대회|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
 |240702|프로그래머스|메뉴 리뉴얼|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
+|240710|소프티어|로봇이 지나간 경로|[로봇이 지나간 경로](https://softeer.ai/practice/6275)|
+|240710|SWEA|특이한 자석|[특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=4)|
 
