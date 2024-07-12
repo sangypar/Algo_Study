@@ -23,7 +23,6 @@ public class Main_14500 {
         }
 
         max = -1;
-        // 모든 위치에서 dfs 호출
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 dfs(i, j, 1, paper[i][j]);
