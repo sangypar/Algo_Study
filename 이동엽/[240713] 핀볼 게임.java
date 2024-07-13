@@ -54,9 +54,9 @@ public class Solution_핀볼 {
         }
 
         // 벽
-        if (i == 0 || j == 0 || i == n - 1 || j == n - 1) {
+        if (cnt > 0 && i == 0 || j == 0 || i == n - 1 || j == n - 1) {
             cnt++;
-            dir = (dir + 2) % 4;
+            go(i, j, (dir + 2) % 4);
         }
 
         if (map[i][j] == 0) { // 아무것도 x
