@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+// FAIL
 public class Solution_핀볼 {
 
     static int n, cnt, max, map[][];
