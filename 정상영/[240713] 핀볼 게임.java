@@ -64,7 +64,7 @@ public class SWEA_핀볼게임_5650 {
         } else {
             // 경계를 벗어난 경우 반대 방향으로 이동
             cnt++;
-            game(r, c, (d + 2) % 4);
+            game(nr, nc, (d + 2) % 4);
             return;
         }
 
