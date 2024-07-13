@@ -28,11 +28,6 @@
 | 2024.07.07 | 김유석 | [성적 평가](https://softeer.ai/practice/6250) |
 | 2024.07.10 | 정상영 | [로봇이 지나간 경로](https://softeer.ai/practice/6275) |
 
-## 💎SWEA
-| 푼 날짜 | 문제 출제자 | 문제 링크 | 
-|--------|------|----------|
-| 2024.07.14 | 최이서 | [핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo#none) |
-
 # 내가 못 푼 문제
 
 ## 🎀 프로그래머스
@@ -43,4 +38,9 @@
 | 2024.06.23 | 이동엽 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | 못 푼 문제 |
 | 2024.06.26 | 김도은 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)) | 못 푼 문제 |
 | 2024.07.03 | 박상용 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=java) |
+
+## 💎SWEA
+| 푼 날짜 | 문제 출제자 | 문제 링크 | 
+|--------|------|----------|
+| 2024.07.14 | 최이서 | [핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo#none) |
 
