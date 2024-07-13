@@ -12,6 +12,7 @@
 | 2024.06.30 | 김윤 | [치킨 배달](https://www.acmicpc.net/problem/15686) |
 | 2024.07.03 | 박상용 | [택배 배송](https://www.acmicpc.net/problem/5972) |
 | 2024.07.07 | 김유석 | [파티](https://www.acmicpc.net/problem/1238) |
+| 2024.07.14 | 최이서 | [테트로미노](https://www.acmicpc.net/problem/14500) |
 
 ## 🎀 프로그래머스
 
@@ -26,6 +27,11 @@
 |--------|------|----------|
 | 2024.07.07 | 김유석 | [성적 평가](https://softeer.ai/practice/6250) |
 | 2024.07.10 | 정상영 | [로봇이 지나간 경로](https://softeer.ai/practice/6275) |
+
+## 💎SWEA
+| 푼 날짜 | 문제 출제자 | 문제 링크 | 
+|--------|------|----------|
+| 2024.07.14 | 최이서 | [핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo#none) |
 
 # 내가 못 푼 문제
 
