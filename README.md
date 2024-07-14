@@ -24,6 +24,7 @@
 | 2024.07.10 | 정상영 | 특이한 자석 | ([문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=4)) |
 | 2024.07.14 | 최이서 | 핀볼 게임 | ([문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo#none)) |
 | 2024.07.14 | 최이서 | 테트로미노 | ([문제 링크](https://www.acmicpc.net/problem/14500)) |
+| 2024.07.17 | 이동엽 | 주차 요금 계산 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92341)) |
 
 <br>
 ---------------------------------------------------
