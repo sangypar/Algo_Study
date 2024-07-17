@@ -34,3 +34,4 @@
 |240710|소프티어|로봇이 지나간 경로|[로봇이 지나간 경로](https://softeer.ai/practice/6275)|
 |240710|SWEA|특이한 자석|[특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=4)|
 |240714|SWEA|핀볼 게임|[핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo#none)|
+|240717|프로그래머스|주차 요금 계산|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|
