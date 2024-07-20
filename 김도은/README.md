@@ -21,6 +21,7 @@
 | 2024.06.19 | 최이서 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |
 | 2024.06.30 | 김윤 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
 | 2024.06.26 | 김도은 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
+| 2024.07.21 | 김도은 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
 
 ## 🚗 소프티어
 
