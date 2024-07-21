@@ -26,7 +26,8 @@
 | 2024.07.14 | 최이서 | 테트로미노 | ([문제 링크](https://www.acmicpc.net/problem/14500)) |
 | 2024.07.17 | 이동엽 | 주차 요금 계산 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92341)) |
 | 2024.07.21 | 김도은 | 아이템 줍기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87694)) |
-| 2024.06.26 | 김도은 | 호텔 대실 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155651)) |
+| 2024.07.21 | 김도은 | 호텔 대실 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155651)) |
+| 2024.07.24 | 김윤 | 감시 | ([문제 링크](https://www.acmicpc.net/problem/15683)) |
 
 <br>
 ---------------------------------------------------
