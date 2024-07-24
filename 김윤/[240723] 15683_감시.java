@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-// 감시
+// 감시 (인덱스 에러남,,, 다시 한 번 풀어볼게요!)
 public class Main_15683 {
 	
 	static int[][] map;
