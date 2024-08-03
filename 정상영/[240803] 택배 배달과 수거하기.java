@@ -1,25 +1,24 @@
 /*
-오답임
-테스트 1 〉	통과 (0.04ms, 76.7MB)
-테스트 2 〉	통과 (0.03ms, 79.3MB)
-테스트 3 〉	통과 (0.04ms, 82.6MB)
-테스트 4 〉	통과 (0.03ms, 73.8MB)
-테스트 5 〉	통과 (0.05ms, 72.6MB)
-테스트 6 〉	통과 (0.04ms, 75.5MB)
-테스트 7 〉	통과 (0.42ms, 77.9MB)
-테스트 8 〉	통과 (9.06ms, 69.1MB)
-테스트 9 〉	통과 (25.69ms, 82.9MB)
-테스트 10 〉	통과 (27.41ms, 88.6MB)
-테스트 11 〉	통과 (2.01ms, 80.5MB)
-테스트 12 〉	통과 (2.20ms, 77.1MB)
-테스트 13 〉	통과 (19.38ms, 85.2MB)
-테스트 14 〉	통과 (43.09ms, 86.2MB)
-테스트 15 〉	통과 (17.20ms, 80MB)
-테스트 16 〉	실패 (214.17ms, 87.4MB)
-테스트 17 〉	실패 (5843.86ms, 87.9MB)
-테스트 18 〉	실패 (21.95ms, 98.3MB)
-테스트 19 〉	실패 (2204.09ms, 86.8MB)
-테스트 20 〉	실패 (2198.74ms, 100MB)
+테스트 1 〉	통과 (0.09ms, 77.5MB)
+테스트 2 〉	통과 (0.13ms, 72.9MB)
+테스트 3 〉	통과 (0.08ms, 76.7MB)
+테스트 4 〉	통과 (0.14ms, 72.4MB)
+테스트 5 〉	통과 (0.11ms, 72.6MB)
+테스트 6 〉	통과 (0.07ms, 75MB)
+테스트 7 〉	통과 (0.76ms, 74.9MB)
+테스트 8 〉	통과 (13.96ms, 80.3MB)
+테스트 9 〉	통과 (21.24ms, 78.3MB)
+테스트 10 〉	통과 (40.24ms, 83.7MB)
+테스트 11 〉	통과 (2.62ms, 80.4MB)
+테스트 12 〉	통과 (3.80ms, 80.6MB)
+테스트 13 〉	통과 (21.13ms, 81.5MB)
+테스트 14 〉	통과 (15.07ms, 77.6MB)
+테스트 15 〉	통과 (10.45ms, 95.8MB)
+테스트 16 〉	통과 (184.20ms, 85.4MB)
+테스트 17 〉	통과 (9342.22ms, 86.3MB)
+테스트 18 〉	통과 (22.71ms, 92MB)
+테스트 19 〉	통과 (1842.48ms, 92.1MB)
+테스트 20 〉	통과 (2960.55ms, 90.5MB)
 */
 
 import java.util.*;
@@ -28,12 +27,12 @@ class Solution {
     
     static int[] deli, pick;
     
-    public int solution(int cap, int n, int[] deliveries, int[] pickups) {
+    public long solution(int cap, int n, int[] deliveries, int[] pickups) {
         deli = Arrays.copyOf(deliveries, n);
         pick = Arrays.copyOf(pickups, n);
         
         int last = n - 1;
-        int dist = 0;
+        long dist = 0;
         
         while(!isDone(n)) {
             // 마지막 지점 찾기
@@ -88,4 +87,3 @@ class Solution {
         return true;
     }
 }
-
