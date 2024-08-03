@@ -30,7 +30,17 @@
 | 2024.07.07 | 김유석 | [성적 평가](https://softeer.ai/practice/6250) |
 | 2024.07.10 | 정상영 | [로봇이 지나간 경로](https://softeer.ai/practice/6275) |
 
+## 💎 SWEA
+| 푼 날짜 | 문제 출제자 | 문제 링크 | 
+|--------|------|----------|
+| 2024.08.04 | 김유석 | [원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo&categoryId=AWXRFInKex8DFAUo&categoryType=CODE&problemTitle=SW&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+
 # 내가 못 푼 문제
+
+## 🎈 백준
+| 푼 날짜 | 문제 출제자 | 문제 링크 | 
+|--------|------|----------|
+| 2024.07.31 | 박상용 | [A와 B](https://www.acmicpc.net/problem/12904) |
 
 ## 🎀 프로그래머스
 
