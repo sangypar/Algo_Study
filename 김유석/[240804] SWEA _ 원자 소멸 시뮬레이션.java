@@ -41,9 +41,9 @@ public class Swea_2_원자소멸시뮬레이션 {
                 automList.add(new Autom(x, y, dir, e));
             }
 
-            int resultEnergy = 0;
+            int result = 0;
 
-            // Check for potential collisions between every pair of atoms
+
             for (int i = 0; i < automList.size(); i++) {
                 Autom a1 = automList.get(i);
                 for (int j = i + 1; j < automList.size(); j++) {
@@ -52,20 +52,20 @@ public class Swea_2_원자소멸시뮬레이션 {
 
                     if (a1.y == a2.y) {
                         if ((a1.dir == 2 && a2.dir == 3 ) || (a1.dir == 3 && a2.dir == 2 )) {
-                            resultEnergy += a1.e + a2.e;
+                            result += a1.e + a2.e;
                         }
                     }
 
 
                     if (a1.x == a2.x) {
                         if ((a1.dir == 0 && a2.dir == 1 ) || (a1.dir == 1 && a2.dir == 0 )) {
-                            resultEnergy += a1.e + a2.e;
+                            result += a1.e + a2.e;
                         }
                     }
                 }
             }
 
-            System.out.println("#" + t + " " + resultEnergy);
+            System.out.println("#" + t + " " + result);
         }
     }
 }
