@@ -24,7 +24,6 @@ public class Main {
 	}
 
 	private static void check(String S, String T) {
-		
 		while (T.length() > S.length()) {
 			if (T.charAt(T.length() - 1) == 'A') {
 				T = T.substring(0, T.length() - 1);
