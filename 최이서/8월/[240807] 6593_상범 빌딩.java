@@ -6,7 +6,6 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 class Point {
-	
 	int l;
 	int r;
 	int c;
