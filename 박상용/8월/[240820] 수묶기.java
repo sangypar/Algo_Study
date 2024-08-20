@@ -23,7 +23,7 @@ public class psy_1744_수묶기 {
 				lowcnt++;
 			else
 				highcnt++;
-			arr.add(num);
+			arr.add(num); 
 		}
 
 		Collections.sort(arr);
