@@ -14,6 +14,7 @@
 | 2024.07.07 | 김유석 | [파티](https://www.acmicpc.net/problem/1238) |
 | 2024.07.14 | 최이서 | [테트로미노](https://www.acmicpc.net/problem/14500) |
 | 2024.08.16 | 최이서 | [수 묶기](https://www.acmicpc.net/problem/1744) |
+| 2024.08.16 | 최이서 | [공유기 설치](https://www.acmicpc.net/problem/2110) |
 
 ## 🎀 프로그래머스
 
