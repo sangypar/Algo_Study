@@ -34,6 +34,8 @@
 | 2024.08.07 | 정상영 | 상범 빌딩 | ([문제 링크](https://www.acmicpc.net/problem/6593)) |
 | 2024.08.16 | 최이서 | 수 묶기 | ([문제 링크](https://www.acmicpc.net/problem/1744)) |
 | 2024.08.16 | 최이서 | 공유기 설치 | ([문제 링크](https://www.acmicpc.net/problem/2110)) |
+| 2024.08.25 | 이동엽 | 내리막길 | ([문제 링크](https://www.acmicpc.net/problem/1520)) |
+| 2024.08.25 | 이동엽 | 두 큐 합 같게 만들기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118667)) |
 
 <br>
 ---------------------------------------------------
