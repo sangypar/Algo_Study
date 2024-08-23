@@ -28,6 +28,14 @@
 | 2024.07.21 | 김도은 | 아이템 줍기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87694)) |
 | 2024.07.21 | 김도은 | 호텔 대실 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155651)) |
 | 2024.07.24 | 김윤 | 감시 | ([문제 링크](https://www.acmicpc.net/problem/15683)) |
+| 2024.07.31 | 박상용 | A와 B | ([문제 링크](https://www.acmicpc.net/problem/12904)) |
+| 2024.08.04 | 김유석 | 택배 배달과 수거하기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150369)) |
+| 2024.08.04 | 김유석 | 원자 소멸 시뮬레이션 | ([문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo&categoryId=AWXRFInKex8DFAUo&categoryType=CODE&problemTitle=SW&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)) |
+| 2024.08.07 | 정상영 | 상범 빌딩 | ([문제 링크](https://www.acmicpc.net/problem/6593)) |
+| 2024.08.16 | 최이서 | 수 묶기 | ([문제 링크](https://www.acmicpc.net/problem/1744)) |
+| 2024.08.16 | 최이서 | 공유기 설치 | ([문제 링크](https://www.acmicpc.net/problem/2110)) |
+| 2024.08.25 | 이동엽 | 내리막길 | ([문제 링크](https://www.acmicpc.net/problem/1520)) |
+| 2024.08.25 | 이동엽 | 두 큐 합 같게 만들기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118667)) |
 
 <br>
 ---------------------------------------------------
