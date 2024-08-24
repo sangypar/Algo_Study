@@ -14,6 +14,7 @@
 | 2024.07.07 | 김유석 | [파티](https://www.acmicpc.net/problem/1238) |
 | 2024.07.14 | 최이서 | [테트로미노](https://www.acmicpc.net/problem/14500) |
 | 2024.08.16 | 최이서 | [수 묶기](https://www.acmicpc.net/problem/1744) |
+| 2024.08.25 | 이동엽 | [내리막길](https://www.acmicpc.net/problem/1520) |
 
 ## 🎀 프로그래머스
 
@@ -51,7 +52,7 @@
 | 2024.06.16 | 정상영 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 못 푼 문제 |
 | 2024.06.23 | 이동엽 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | 못 푼 문제 |
 | 2024.06.26 | 김도은 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)) | 못 푼 문제 |
-| 2024.07.03 | 박상용 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=java) |
+| 2024.07.03 | 박상용 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=java) |  못 푼 문제 |
 
 ## 💎SWEA
 | 푼 날짜 | 문제 출제자 | 문제 링크 | 
