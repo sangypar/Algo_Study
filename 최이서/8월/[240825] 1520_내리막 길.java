@@ -8,12 +8,13 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+
 public class Main {
 	
 	static int M, N;
 	static int[][] map;
 	static int[][] DP;
-	static int ans;
+//	static int ans;
 	static int[] dx = { -1, 1, 0, 0 };
 	static int[] dy = { 0, 0, -1, 1 };
 	
@@ -41,17 +42,29 @@ public class Main {
 			}
 		}
 		
-		ans = 0;
-		DFS(0, 0);
+		System.out.println(DFS(0, 0));
 	}
 
-	private static void DFS(int r, int c) {
-		
+	private static int DFS(int r, int c) {
+		// 도착지점까지 도달했을 경우
 		if (r == M-1 && c == N-1)
-		
-	}
+		return 1;
+		    
+	    // 방문한 적이 없는 경우
+	    if (DP[r][c] == -1) {
+	      DP[r][c] = 0;
+	      for (int i = 0; i < 4; i++) {
+	          int nx = r + dx[i];
+	          int ny = c + dy[i];
 
-	private static boolean checkBounds(int x, int y) {
-		return x >= 0 && x < M && y >= 0 && y < N;
+	          if (nx < 0 || nx > M-1 || ny < 0 || ny > N-1) continue;
+
+	          // 내리막 길인 경우
+	          if (map[r][c] > map[nx][ny]) {
+	              DP[r][c] += DFS(nx, ny);
+	          }
+	      }
+	    }
+	    return DP[r][c];
 	}
 }
