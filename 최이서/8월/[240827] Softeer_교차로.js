@@ -31,7 +31,7 @@ rl.on('close', () => {
   let currentTime = 0;
   const carList = { 'A': null, 'B': null, 'C': null, 'D': null }; // 현재 처리 중인 차량
 
-  while (Object.values(queues).some(queue => queue.length > 0) || Object.values(carList).some(car => car !== null)) {
+  while (true) {
     // 차량 진입 시 처리
     for (const dir of ['A', 'B', 'C', 'D']) {
       while (queues[dir].length > 0 && queues[dir][0].time <= currentTime) {
