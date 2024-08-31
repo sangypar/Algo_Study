@@ -1,66 +1,59 @@
-// readline 모듈 import
-const readline = require("readline");
+const readline = require('readline');
 
-// 입출력을 위한 인터페이스 객체 생성
 const rl = readline.createInterface({
   input: process.stdin,
-  output: process.stdout,
+  output: process.stdout
 });
 
 let N = 0;
 const inputLines = [];
+const queues = { 'A': [], 'B': [], 'C': [], 'D': [] };
+const result = [];
 
 rl.on('line', (line) => {
   if (N === 0) {
     N = parseInt(line);
   } else {
-      inputLines.push(line);
-      if (inputLines.length === N) {
-          rl.close();
-      }
+    inputLines.push(line);
+    if (inputLines.length === N) {
+      rl.close();
+    }
   }
 });
 
 rl.on('close', () => {
-  // console.log("Number of Lines:", numberOfLines);
-  // console.log("Input Lines:", inputLines);
-
-  const processedData = inputLines.map(line => {
-    const [number, char] = line.split(' ');
-    return { number: parseInt(number), char: char };
+  inputLines.forEach((line, index) => {
+    const [time, direction] = line.split(' ');
+    queues[direction].push({ time: parseInt(time), index });
+    result.push(-1);
   });
 
-  let cars = [[], [], [], []];
-  let time = inputLines[0][0];
-  
-  for (let i = 0; i < N; i++) {
-    if (inputLines[i][0] !== time) {
-      
-    }
-    if (inputLines[i][0] === time) {
-      switch (inputLines[i][1]) {
-        case 'A':
-          cars[0].push(inputLines[i][0]);
-          break;
-        case 'B':
-          cars[1].push(inputLines[i][0]);
-          break;
-        case 'C':
-          cars[2].push(inputLines[i][0]);
-          break;
-        case 'D':
-          cars[3].push(inputLines[i][0]);
-          break;
+  let currentTime = 0;
+  const carList = { 'A': null, 'B': null, 'C': null, 'D': null };
+
+    for (const dir of ['A', 'B', 'C', 'D']) {
+      while (queues[dir].length > 0 && queues[dir][0].time <= currentTime) {
+        const { time, index } = queues[dir].shift();
+        const rightDir = { 'A': 'D', 'B': 'A', 'C': 'B', 'D': 'C' }[dir];
+        carList[dir] = { time, index };
+
+        if (carList[rightDir] !== null) {
+          const { rtTime, rtIndex } = queues[rightDir].shift();
+          carList[rightDir] = { rtTime, rtIndex };
+        }
       }
-    } else {
-      drive();
 
+    // 교차로를 통과할 차량을 결정
+    let carCnt = 0;
+    for (const dir of ['A', 'B', 'C', 'D']) {
+      if (carList[dir] !== null) {
+        const { time, index } = carList[dir];
+        result[index] = currentTime;
+        carList[dir] = null;
+        carCnt++;
+      }
     }
-  };
-
-  const drive = () => {
-
-  };
-  // console.log("Processed Data:", processedData);
-
+    currentTime++;
+  }
+  console.log(result.join('\n'));
 });
