@@ -1,4 +1,5 @@
 const readline = require('readline');
+const readline = require('readline');
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -7,6 +8,8 @@ const rl = readline.createInterface({
 
 let N = 0;
 const inputLines = [];
+const queues = { 'A': [], 'B': [], 'C': [], 'D': [] };
+const result = [];
 const queues = { 'A': [], 'B': [], 'C': [], 'D': [] };
 const result = [];
 
@@ -18,10 +21,18 @@ rl.on('line', (line) => {
     if (inputLines.length === N) {
       rl.close();
     }
+    inputLines.push(line);
+    if (inputLines.length === N) {
+      rl.close();
+    }
   }
 });
 
 rl.on('close', () => {
+  inputLines.forEach((line, index) => {
+    const [time, direction] = line.split(' ');
+    queues[direction].push({ time: parseInt(time), index });
+    result.push(-1);
   inputLines.forEach((line, index) => {
     const [time, direction] = line.split(' ');
     queues[direction].push({ time: parseInt(time), index });

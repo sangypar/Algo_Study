@@ -60,3 +60,9 @@
 |--------|------|----------|
 | 2024.07.14 | 최이서 | [핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo#none) |
 
+## 🚗 소프티어
+
+| 푼 날짜 | 문제 출제자 | 문제 링크 | 
+|--------|------|----------|
+| 2024.08.28 | 김도은 | [교차로(https://softeer.ai/practice/6256) |
+

@@ -37,7 +37,7 @@
 | 2024.08.25 | 이동엽 | 내리막길 | ([문제 링크](https://www.acmicpc.net/problem/1520)) |
 | 2024.08.25 | 이동엽 | 두 큐 합 같게 만들기 | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118667)) |
 | 2024.08.28 | 김도은 | 교차로 | ([문제 링크](https://softeer.ai/practice/6256)) |
-| 2024.08.28 | 김도은 | 자동차 테스트 | ([문제 링크](https://softeer.ai/practice/6247)) |
+| 2024.09.01 | 김도은 | 자동차 테스트 | ([문제 링크](https://softeer.ai/practice/6247)) |
 
 <br>
 ---------------------------------------------------
