@@ -64,6 +64,5 @@ rl.on("line", (line) => {
     }
   });
 
-  // 결과를 출력
   output.forEach((value) => console.log(value));
 });
