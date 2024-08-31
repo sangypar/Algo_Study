@@ -15,7 +15,7 @@ rl.on("line", (line) => {
   const cars = input[1].split(" ").map(Number); // 자동차 연비 배열
   const queries = input.slice(2).map(Number); // 질의 배열
 
-  cars.sort((a, b) => a - b); // 자동차 연비 배열 오름차순 정렬
+  cars.sort((a, b) => a - b);
 
   // 이진 탐색 함수: 특정 값 이상이 처음 나오는 위치를 찾음
   function lowerBound(arr, target) {
