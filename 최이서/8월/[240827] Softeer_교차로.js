@@ -29,17 +29,17 @@ rl.on('close', () => {
   });
 
   let currentTime = 0;
-  const carList = { 'A': null, 'B': null, 'C': null, 'D': null }; // 현재 처리 중인 차량
+  const carList = { 'A': null, 'B': null, 'C': null, 'D': null };
 
-  while (true) {
-    // 차량 진입 시 처리
     for (const dir of ['A', 'B', 'C', 'D']) {
       while (queues[dir].length > 0 && queues[dir][0].time <= currentTime) {
         const { time, index } = queues[dir].shift();
         const rightDir = { 'A': 'D', 'B': 'A', 'C': 'B', 'D': 'C' }[dir];
-        // 오른쪽 방향에 차량이 있는지 확인
-        if (carList[rightDir] === null) {
-          carList[dir] = { time, index };
+        carList[dir] = { time, index };
+
+        if (carList[rightDir] !== null) {
+          const { rtTime, rtIndex } = queues[rightDir].shift();
+          carList[rightDir] = { rtTime, rtIndex };
         }
       }
 
@@ -47,16 +47,13 @@ rl.on('close', () => {
     let carCnt = 0;
     for (const dir of ['A', 'B', 'C', 'D']) {
       if (carList[dir] !== null) {
-        if (carCnt < 2) {
-          const { time, index } = carList[dir];
-          result[index] = currentTime;
-          carList[dir] = null;
-          carCnt++;
-        }
+        const { time, index } = carList[dir];
+        result[index] = currentTime;
+        carList[dir] = null;
+        carCnt++;
       }
     }
     currentTime++;
   }
-  console.log(result.join(' '));
-  }
+  console.log(result.join('\n'));
 });
