@@ -1,3 +1,5 @@
+// 메모리 초과
+
 // readline 모듈 import
 const readline = require("readline");
 
