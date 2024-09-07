@@ -23,7 +23,7 @@ public class psy_softeer_우물안개구리 {
 			int num2 = Integer.parseInt(st.nextToken());
 			if(arr[num1-1] > arr[num2-1]) {
 				tmp[num2-1] = -1;
-			}else if(arr[num1-1] < arr[num2-1]) {
+			}else if(arr[num1-1] < arr[num2-1]) { 
 				tmp[num1-1] = -1;
 			}else {
 				tmp[num1-1] = -1;

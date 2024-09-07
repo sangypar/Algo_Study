@@ -15,7 +15,7 @@ public class psy_2708_폴리큐브 {
 		int z;
 
 		public Cube(int r, int c, int z) {
-			this.r = r;
+			this.r = r; 
 			this.c = c;
 			this.z = z;
 		}

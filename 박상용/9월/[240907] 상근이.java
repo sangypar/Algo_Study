@@ -23,7 +23,7 @@ public class psy_2825_상근이 {
 		}
 
 		for (int i = 0; i < arr.length; i++) {
-			for (int j = 0; j < arr.length; j++) {
+			for (int j = 0; j < arr.length; j++) { 
 				if ((i & j) != 0)
 					result += (long) arr[i] * arr[j];
 			}
