@@ -80,24 +80,23 @@ public class 폴리큐브의겉넓이_2708 {
 				// 붙어있는 애가 있따 하믄
 				if (cubes.contains(next)) {
 					first--; // 하나씩 면접 감소
-				} else {
-					// 붙어있는애가 없다면...
-					idx = cubes.indexOf(cube);
 				}
 			}
 
 			surface += first;
 		}
 
-		if (!isConnect(cubes)) {
-			// 연결된 게 아니라면...
-			return "NO " + idx;
+		// 연결성 검사 및 끊긴 정육면체 번호 확인
+		idx = isConnect(cubes);
+		
+		if (idx != -1) {
+			return "NO " + (idx + 1); // 연결이 끊긴 정육면체의 번호 (1부터 시작)
 		}
 
 		return String.valueOf(surface);
 	}
 
-	private static boolean isConnect(List<String> cubes) {
+	private static int isConnect(List<String> cubes) {
 
 		Set<String> visited = new HashSet<>();
 		Queue<String> queue = new LinkedList<>();
@@ -130,9 +129,18 @@ public class 폴리큐브의겉넓이_2708 {
 			}
 		}
 
-		// 모든 큐브가 방문되었는지 확인
-		return visited.size() == cubes.size();
+        // 모든 큐브가 방문되었는지 확인
+        if (visited.size() == cubes.size()) {
+            return -1; // 모두 연결된 경우
+        }
+
+        // 연결이 끊긴 정육면체의 번호를 찾기
+        for (int i = 0; i < cubes.size(); i++) {
+            if (!visited.contains(cubes.get(i))) {
+                return i; // 연결이 끊긴 첫 번째 정육면체의 인덱스 반환
+            }
+        }
+
+        return -1; // 기본 반환 값 (여기에 도달하지 않아야 함)
 	}
 }
-
-//75%에서 틀렸습니다 나옵니다 ㅠ ㅠ
