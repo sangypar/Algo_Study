@@ -1,42 +1,41 @@
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         
     	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
-        int ans = 0;
-        
-    	int[] bitMasks = new int[N];
-        
-        // 비트마스크로 변환
+        int[] bitCntList = new int[1024];	// 10개(0~9)의 비트
+
         for (int i = 0; i < N; i++) {
-            int num = Integer.parseInt(br.readLine());
-            bitMasks[i] = getBitMask(num);
+            String num = br.readLine();
+            int temp = 0;
+            for (char bitNum : num.toCharArray()) {
+                temp |= (1 << (bitNum - '0'));
+            }
+            bitCntList[temp]++;
         }
-        
-        for (int i = 0; i < N; i++) {
-            for (int j = i + 1; j < N; j++) {
-                if ((bitMasks[i] & bitMasks[j]) != 0) { // AND 연산
-                    ans++;
+
+        long ans = 0;
+        for (int k = 1; k < 1024; k++) {
+            for (int t = k; t < 1024; t++) {
+                if (k == t) {
+                    if (bitCntList[k] >= 2) {
+                    	// 같은 비트마스크 값을 가진 숫자: 그 중 2개를 선택하는 조합의 수 계산
+                    	ans += (long) bitCntList[k] * (bitCntList[k] - 1) / 2;
+                    }
+                } else {
+                    if (bitCntList[k] != 0 && bitCntList[t] != 0) {
+                    	// 다른 숫자: 
+                        if ((k & t) > 0) {
+                        	ans += (long) bitCntList[k] * bitCntList[t];
+                        }
+                    }
                 }
             }
         }
+
         System.out.println(ans);
-    }
-    
-    public static int getBitMask(int num) {
-    	int mask = 0; // 비트가 저장될 변수
-    	while (num > 0) {
-    		int digit = num % 10; // 마지막 자리 숫자 추출
-    		
-    		// 1. digit을 비트마스킹
-    		// 2. mask에 해당 비트마스킹 결과를 OR 연산으로 포함
-    		mask |= (1 << digit);
-    		
-    		num /= 10;			  // 마지막 자릿수 제거
-    	}
-    	return mask;
     }
 }
