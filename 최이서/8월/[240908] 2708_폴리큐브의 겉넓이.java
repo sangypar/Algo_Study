@@ -1,9 +1,8 @@
-package 8월;
-
-public import java.util.*;
+import java.util.*;
 import java.io.*;
 
 public class Main {
+	
     static int[][][] cube = new int[101][101][101];
     static int N;
     static int[] dx = {-1, 1, 0, 0, 0, 0};
@@ -18,7 +17,7 @@ public class Main {
         StringBuilder sb = new StringBuilder();
         int T = Integer.parseInt(br.readLine());
 
-        for (int t = 0; t < T; t++) {
+        wrap: for (int t = 0; t < T; t++) {
         	
         	N = Integer.parseInt(br.readLine());
         	
@@ -53,6 +52,11 @@ public class Main {
         		int x = Integer.parseInt(pt[0]);
         		int y = Integer.parseInt(pt[1]);
         		int z = Integer.parseInt(pt[2]);
+        		
+        		if (cube[x][y][z] == 1) {
+        			sb.append("NO ").append(i + 1).append("\n");
+        			continue wrap;
+        		}
         		
         		if (!isConnected(x, y, z)) {
         			isValid = false;
@@ -108,8 +112,6 @@ public class Main {
     }
 
     static boolean checkBounds(int x, int y, int z) {
-        return x >= 0 && x < N && y >= 0 && y < N && z >= 0 && z < N;
-    }
-} {
-  
+        return x >= 0 && x < 5 && y >= 0 && y < 5 && z >= 0 && z < 5;
+    } 
 }
