@@ -5,7 +5,7 @@
 | ---------- | ----------- | --------------------------------------------------- |
 | 2024.09.09 | SQL(프로그래머스)   | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)        |
 | 2024.09.10 | 알고(프로그래머스)  |[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)   |
-| 2024.09.11 |       |  |
+| 2024.09.11 |  SQL(프로그래머스) |[재구매가일어난상품](https://school.programmers.co.kr/learn/courses/30/lessons/131536)   |
 | 2024.09.12 |       |      |
 | 2024.09.13 |         |  |
 | 2024.09.14 |       |   |
