@@ -44,6 +44,8 @@
 | 2024.09.08 | 박상용      | 폴리큐브의 겉넓이                         | ([문제 링크](https://www.acmicpc.net/problem/2708))                                                                                                                                                                                                        |
 | 2024.09.08 | 박상용      | 수업시간에 교수님 몰래 교실을 나간 상근이 | ([문제 링크](https://www.acmicpc.net/problem/2825))                                                                                                                                                                                                        |
 | 2024.09.11 | 김유석      | 후보키                                    | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42890))                                                                                                                                                                             |
+| 2024.09.15 | 정상영      | 디스크 컨트롤러                                    | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42627))                                                                                                                                                                             |
+| 2024.09.15 | 정상영      | 불량 사용자                                    | ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64064))                                                                                                                                                                             |
 
 ## <br>
 
