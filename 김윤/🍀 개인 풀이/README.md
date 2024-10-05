@@ -5,3 +5,4 @@
 |240927|백준|[제로](https://www.acmicpc.net/problem/10773)|`실버 4`|✔|
 |240928|백준|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|`실버 5`|✔|
 |241004|백준|[블랙잭](https://www.acmicpc.net/problem/2798)|`브론즈 2`|✔|
+|241005|백준|[분해합](https://www.acmicpc.net/problem/2231)|`브론즈 2`|✔|
