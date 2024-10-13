@@ -17,6 +17,7 @@ function solution(clothes) {
   let total = 1;
 
   for (let type in closet) {
+    // '+1'은 해당 종류의 의상을 입지 않는 경우를 포함합니다.
     total *= closet[type] + 1;
   }
 
@@ -25,19 +26,3 @@ function solution(clothes) {
 
   return result;
 }
-
-// 테스트
-console.log(
-  solution([
-    ["yellow_hat", "headgear"],
-    ["blue_sunglasses", "eyewear"],
-    ["green_turban", "headgear"],
-  ])
-); // 5
-console.log(
-  solution([
-    ["crow_mask", "face"],
-    ["blue_sunglasses", "face"],
-    ["smoky_makeup", "face"],
-  ])
-); // 3
