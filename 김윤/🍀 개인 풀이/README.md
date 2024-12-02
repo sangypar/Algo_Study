@@ -8,3 +8,4 @@
 |241005|백준|[분해합](https://www.acmicpc.net/problem/2231)|`브론즈 2`|✔|
 |241006|백준|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|`실버 4`|✔|
 |241015|백준|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|`브론즈 1`|✔|
+|241202|백준|[평균](https://www.acmicpc.net/problem/1546)|`브론즈 1`|✔|
