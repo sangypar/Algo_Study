@@ -10,4 +10,5 @@
 |241015|백준|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|`브론즈 1`|✔|
 |241202|백준|[평균](https://www.acmicpc.net/problem/1546)|`브론즈 1`|✔|
 |241202|백준|[색종이](https://www.acmicpc.net/problem/2563)|`실버 5`|✔|
-|241202|백준|[영화감독 숌](https://www.acmicpc.net/problem/1436)|`실버 5`|✔|
+|241203|백준|[영화감독 숌](https://www.acmicpc.net/problem/1436)|`실버 5`|✔|
+|241204|백준|[설탕 배달](https://www.acmicpc.net/problem/2839)|`실버 4`|✔|
