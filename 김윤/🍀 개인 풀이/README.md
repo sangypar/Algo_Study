@@ -12,3 +12,6 @@
 |241202|백준|[색종이](https://www.acmicpc.net/problem/2563)|`실버 5`|✔|
 |241203|백준|[영화감독 숌](https://www.acmicpc.net/problem/1436)|`실버 5`|✔|
 |241204|백준|[설탕 배달](https://www.acmicpc.net/problem/2839)|`실버 4`|✔|
+|241204|백준|[셀프 넘버](https://www.acmicpc.net/problem/4673)|`실버 5`|✔|
+|241204|백준|[약수 구하기](https://www.acmicpc.net/problem/2501)|`브론즈 3`|✔|
+|241204|백준|[덩치](https://www.acmicpc.net/problem/7568)|`실버 5`|✔|
