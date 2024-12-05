@@ -18,3 +18,4 @@
 |241205|백준|[괄호](https://www.acmicpc.net/problem/9012)|`실버 4`|✔|
 |241205|백준|[카드2](https://www.acmicpc.net/problem/2164)|`실버 4`|✔|
 |241205|백준|[팩토리얼2](https://www.acmicpc.net/problem/27433)|`브론즈 5`|✔|
+|241205|백준|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|`브론즈 2`|✔|
