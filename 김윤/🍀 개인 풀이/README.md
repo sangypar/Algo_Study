@@ -20,3 +20,7 @@
 |241205|백준|[팩토리얼2](https://www.acmicpc.net/problem/27433)|`브론즈 5`|✔|
 |241205|백준|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|`브론즈 2`|✔|
 |241206|백준|[다리 놓기](https://www.acmicpc.net/problem/1010)|`실버 5`|✔|
+|241206|백준|[조합](https://www.acmicpc.net/problem/2407)|`실버 3`|✔|
+|241206|백준|[로또](https://www.acmicpc.net/problem/6603)|`실버 2`|✔|
+|241206|백준|[암호 만들기](https://www.acmicpc.net/problem/1759)|`골드 5`|✔|
+|241207|백준|[색종이 만들기](https://www.acmicpc.net/problem/2630)|`실버 2`|✔|
