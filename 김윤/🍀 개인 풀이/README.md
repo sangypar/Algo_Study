@@ -21,3 +21,4 @@
 |241205|백준|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|`브론즈 2`|✔|
 |241206|백준|[다리 놓기](https://www.acmicpc.net/problem/1010)|`실버 5`|✔|
 |241206|백준|[조합](https://www.acmicpc.net/problem/2407)|`실버 3`|✔|
+|241206|로또|[로](https://www.acmicpc.net/problem/6603)|`실버 2`|✔|
