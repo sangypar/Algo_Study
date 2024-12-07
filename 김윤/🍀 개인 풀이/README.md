@@ -26,3 +26,4 @@
 |241207|백준|[색종이 만들기](https://www.acmicpc.net/problem/2630)|`실버 2`|✔|
 |241207|백준|[부분수열의 합](https://www.acmicpc.net/problem/1182)|`실버 2`|✔|
 |241208|백준|[스타트와 링크](https://www.acmicpc.net/problem/14889)|`실버 1`|✔|
+|241208|백준|[차이를 최대로](https://www.acmicpc.net/problem/10819)|`실버 2`|✔|
