@@ -33,3 +33,4 @@
 |241209|백준|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|`실버 4`|✔|
 |241209|백준|[바이러스](https://www.acmicpc.net/problem/2606)|`실버 3`|✔|
 |241209|백준|[유기농 배추](https://www.acmicpc.net/problem/1012)|`실버 2`|✔|
+|241209|백준|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|`실버 2`|✔|
