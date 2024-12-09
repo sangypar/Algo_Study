@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 public class Main_2606_바이러스 {
 	
-	static int computer;
+	static int V;
 	static List<Integer>[] adj;
 	static boolean[] visit;
 	static int count = 0;
@@ -17,14 +17,14 @@ public class Main_2606_바이러스 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
-		computer = Integer.parseInt(br.readLine());
+		V = Integer.parseInt(br.readLine());
 		int E = Integer.parseInt(br.readLine());
 		
-		adj = new ArrayList[computer + 1];
-		for (int i = 0; i <= computer; i++) {
+		adj = new ArrayList[V + 1];
+		for (int i = 0; i <= V; i++) {
 			adj[i] = new ArrayList<>();
 		}
-		visit = new boolean[computer + 1];
+		visit = new boolean[V + 1];
 		
 		for (int i = 0; i < E; i++) {
 			st = new StringTokenizer(br.readLine());
@@ -44,8 +44,8 @@ public class Main_2606_바이러스 {
 		visit[c] = true;
 		count++;
 		
-		for (int v : adj[c]) {
-			if (!visit[v]) DFS(v);
+		for (int w : adj[c]) {
+			if (!visit[w]) DFS(w);
 		}
 	}
 	
