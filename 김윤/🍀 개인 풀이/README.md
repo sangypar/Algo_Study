@@ -28,3 +28,13 @@
 |241208|백준|[스타트와 링크](https://www.acmicpc.net/problem/14889)|`실버 1`|✔|
 |241208|백준|[차이를 최대로](https://www.acmicpc.net/problem/10819)|`실버 2`|✔|
 |241208|백준|[모든 순열](https://www.acmicpc.net/problem/10974)|`실버 3`|✔|
+|241209|백준|[수 찾기](https://www.acmicpc.net/problem/1920)|`실버 4`|✔|
+|241209|백준|[숫자 카드](https://www.acmicpc.net/problem/10815)|`실버 5`|✔|
+|241209|백준|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|`실버 4`|✔|
+|241209|백준|[바이러스](https://www.acmicpc.net/problem/2606)|`실버 3`|✔|
+|241209|백준|[유기농 배추](https://www.acmicpc.net/problem/1012)|`실버 2`|✔|
+|241209|백준|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|`실버 2`|✔|
+|241209|백준|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|`실버 1`|✔|
+|241209|프로그래머스|[붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)|`LV.1`|✔|
+|241209|프로그래머스|[동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|`LV.1`|✔|
+|241209|프로그래머스|[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|✔|
