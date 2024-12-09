@@ -28,3 +28,4 @@
 |241208|백준|[스타트와 링크](https://www.acmicpc.net/problem/14889)|`실버 1`|✔|
 |241208|백준|[차이를 최대로](https://www.acmicpc.net/problem/10819)|`실버 2`|✔|
 |241208|백준|[모든 순열](https://www.acmicpc.net/problem/10974)|`실버 3`|✔|
+|241209|백준|[수 찾기](https://www.acmicpc.net/problem/1920)|`실버 4`|✔|
