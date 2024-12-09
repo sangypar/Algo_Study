@@ -35,4 +35,5 @@
 |241209|백준|[유기농 배추](https://www.acmicpc.net/problem/1012)|`실버 2`|✔|
 |241209|백준|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|`실버 2`|✔|
 |241209|백준|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|`실버 1`|✔|
-|241209|프로그래머스|[붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137?language=java)|`LV.1`|✔|
+|241209|프로그래머스|[붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)|`LV.1`|✔|
+|241209|프로그래머스|[동영상 재생](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|`LV.1`|✔|
