@@ -37,3 +37,4 @@
 |241209|백준|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|`실버 1`|✔|
 |241209|프로그래머스|[붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)|`LV.1`|✔|
 |241209|프로그래머스|[동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|`LV.1`|✔|
+|241209|프로그래머스|[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|✔|
