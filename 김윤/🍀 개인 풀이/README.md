@@ -30,3 +30,4 @@
 |241208|백준|[모든 순열](https://www.acmicpc.net/problem/10974)|`실버 3`|✔|
 |241209|백준|[수 찾기](https://www.acmicpc.net/problem/1920)|`실버 4`|✔|
 |241209|백준|[숫자 카드](https://www.acmicpc.net/problem/10815)|`실버 5`|✔|
+|241209|백준|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|`실버 4`|✔|
