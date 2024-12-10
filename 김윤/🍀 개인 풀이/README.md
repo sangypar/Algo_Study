@@ -38,3 +38,4 @@
 |241209|프로그래머스|[붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)|`LV.1`|✔|
 |241209|프로그래머스|[동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|`LV.1`|✔|
 |241209|프로그래머스|[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|✔|
+|241210|프로그래머스|[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|`LV.2`|✔|
