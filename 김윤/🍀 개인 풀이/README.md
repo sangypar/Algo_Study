@@ -42,3 +42,4 @@
 |241211|백준|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|`실버 2`|✔|
 |241211|백준|[미로 탐색](https://www.acmicpc.net/problem/2178)|`실버 1`|✔|
 |241212|백준|[숫자 야구](https://www.acmicpc.net/problem/2503)|`실버 3`|✔|
+|241212|백준|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|`실버 4`|✔|
