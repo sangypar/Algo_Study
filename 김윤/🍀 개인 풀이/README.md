@@ -44,3 +44,4 @@
 |241212|백준|[숫자 야구](https://www.acmicpc.net/problem/2503)|`실버 3`|✔|
 |241212|백준|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|`실버 4`|✔|
 |241213|백준|[공](https://www.acmicpc.net/problem/1547)|`브론즈 3`|✔|
+|241213|백준|[문자열](https://www.acmicpc.net/problem/1120)|`실버 4`|✔|
