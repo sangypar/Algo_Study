@@ -46,3 +46,5 @@
 |241213|백준|[공](https://www.acmicpc.net/problem/1547)|`브론즈 3`|✔|
 |241213|백준|[문자열](https://www.acmicpc.net/problem/1120)|`실버 4`|✔|
 |241213|백준|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|`실버 3`|✔|
+|241216|백준|[숨바꼭질](https://www.acmicpc.net/problem/1697)|`실버 1`|✔|
+|241216|백준|[안전 영역](https://www.acmicpc.net/problem/2468)|`실버 1`|✔|
