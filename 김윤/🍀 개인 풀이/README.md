@@ -51,3 +51,4 @@
 |241217|백준|[섬의 개수](https://www.acmicpc.net/problem/4963)|`실버 2`|✔|
 |241217|백준|[나이트의 이동](https://www.acmicpc.net/problem/7562)|`실버 1`|✔|
 |241217|백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|`실버 2`|✔|
+|241217|백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|`실버 2`|✔|
