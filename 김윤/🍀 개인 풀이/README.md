@@ -52,3 +52,4 @@
 |241217|백준|[나이트의 이동](https://www.acmicpc.net/problem/7562)|`실버 1`|✔|
 |241217|백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|`실버 2`|✔|
 |241217|백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|`실버 2`|✔|
+|241218|프로그래머스|[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)|`LV.1`|✔|
