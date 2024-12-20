@@ -54,3 +54,4 @@
 |241217|백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|`실버 2`|✔|
 |241218|프로그래머스|[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)|`LV.1`|✔|
 |241220|프로그래머스|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|`LV.1`|✔|
+|241220|백준|[듣보잡](https://www.acmicpc.net/problem/1764)|`실버 4`|✔|
