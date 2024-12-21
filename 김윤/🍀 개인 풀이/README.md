@@ -56,3 +56,4 @@
 |241220|프로그래머스|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|`LV.1`|✔|
 |241220|백준|[듣보잡](https://www.acmicpc.net/problem/1764)|`실버 4`|✔|
 |241220|백준|[문자열 집합](https://www.acmicpc.net/problem/14425)|`실버 4`|✔|
+|241221|백준|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|`실버 1`|✔|
