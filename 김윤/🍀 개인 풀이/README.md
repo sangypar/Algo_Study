@@ -57,3 +57,4 @@
 |241220|백준|[듣보잡](https://www.acmicpc.net/problem/1764)|`실버 4`|✔|
 |241220|백준|[문자열 집합](https://www.acmicpc.net/problem/14425)|`실버 4`|✔|
 |241221|백준|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|`실버 1`|✔|
+|241222|백준|[카드 놓기](https://www.acmicpc.net/problem/5568)|`실버 4`|✔|
