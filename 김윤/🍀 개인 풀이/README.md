@@ -60,3 +60,4 @@
 |241222|백준|[카드 놓기](https://www.acmicpc.net/problem/5568)|`실버 4`|✔|
 |241223|프로그래머스|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|`LV.1`|✔|
 |241223|프로그래머스|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|`LV.1`|✔|
+|241224|백준|[부등호](https://www.acmicpc.net/problem/2529)|`실버 1`|✔|
