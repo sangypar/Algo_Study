@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int[] solution(String today, String[] terms, String[] privacies) {
-        List<Integer> answer = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
         String[] todayArray = today.split("\\.");
         Map<String, Integer> map = new HashMap<>();
         int length = privacies.length;
@@ -39,32 +39,39 @@ class Solution {
             if (deadline[0] < todayYear || 
                 (deadline[0] == todayYear && deadline[1] < todayMonth) || 
                 (deadline[0] == todayYear && deadline[1] == todayMonth && deadline[2] <= todayDay)) {
-                answer.add(i + 1);
+                list.add(i + 1);
             }
         }
         
-        return answer.stream().mapToInt(Integer::intValue).toArray();
+        int[] answer = new int[list.size()];
+        Iterator<Integer> iterator = list.iterator();
+        int index = 0;
+        while (iterator.hasNext()) {
+            answer[index++] = iterator.next();
+        }
+
+        return answer;
     }
 }
 
 // 정확성  테스트
-// 테스트 1 〉	통과 (1.92ms, 73.4MB)
-// 테스트 2 〉	통과 (2.11ms, 78.2MB)
-// 테스트 3 〉	통과 (2.25ms, 91.8MB)
-// 테스트 4 〉	통과 (1.95ms, 82MB)
-// 테스트 5 〉	통과 (3.02ms, 74.2MB)
-// 테스트 6 〉	통과 (3.20ms, 83.1MB)
-// 테스트 7 〉	통과 (2.52ms, 83.7MB)
-// 테스트 8 〉	통과 (3.89ms, 81.7MB)
-// 테스트 9 〉	통과 (3.65ms, 86.2MB)
-// 테스트 10 〉	통과 (2.85ms, 84.2MB)
-// 테스트 11 〉	통과 (2.75ms, 91.4MB)
-// 테스트 12 〉	통과 (3.13ms, 90.6MB)
-// 테스트 13 〉	통과 (3.43ms, 73.1MB)
-// 테스트 14 〉	통과 (3.03ms, 75.6MB)
-// 테스트 15 〉	통과 (3.73ms, 76.5MB)
-// 테스트 16 〉	통과 (3.21ms, 73.1MB)
-// 테스트 17 〉	통과 (4.11ms, 90.3MB)
-// 테스트 18 〉	통과 (3.31ms, 77.9MB)
-// 테스트 19 〉	통과 (2.97ms, 89.1MB)
-// 테스트 20 〉	통과 (2.95ms, 88.1MB)
+// 테스트 1 〉	통과 (0.11ms, 74.3MB)
+// 테스트 2 〉	통과 (0.22ms, 87.3MB)
+// 테스트 3 〉	통과 (0.16ms, 76.7MB)
+// 테스트 4 〉	통과 (0.17ms, 82.8MB)
+// 테스트 5 〉	통과 (0.33ms, 79.6MB)
+// 테스트 6 〉	통과 (0.37ms, 82.4MB)
+// 테스트 7 〉	통과 (0.27ms, 75.7MB)
+// 테스트 8 〉	통과 (0.36ms, 79.4MB)
+// 테스트 9 〉	통과 (0.62ms, 73.6MB)
+// 테스트 10 〉	통과 (0.78ms, 86.4MB)
+// 테스트 11 〉	통과 (0.70ms, 72.8MB)
+// 테스트 12 〉	통과 (0.84ms, 72.9MB)
+// 테스트 13 〉	통과 (1.41ms, 72.6MB)
+// 테스트 14 〉	통과 (0.76ms, 71.8MB)
+// 테스트 15 〉	통과 (0.63ms, 79.6MB)
+// 테스트 16 〉	통과 (1.13ms, 83.1MB)
+// 테스트 17 〉	통과 (0.96ms, 89.1MB)
+// 테스트 18 〉	통과 (1.10ms, 74.1MB)
+// 테스트 19 〉	통과 (1.11ms, 81.3MB)
+// 테스트 20 〉	통과 (1.42ms, 78.7MB)
