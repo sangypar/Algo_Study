@@ -64,3 +64,4 @@
 |241224|백준|[도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)|`실버 2`|✔|
 |241226|프로그래머스|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|`LV.2`|✔|
 |241227|프로그래머스|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|`LV.1`|✔|
+|241230|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|`LV.1`|✔|
