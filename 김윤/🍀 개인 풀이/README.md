@@ -65,3 +65,5 @@
 |241226|프로그래머스|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|`LV.2`|✔|
 |241227|프로그래머스|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|`LV.1`|✔|
 |241230|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|`LV.1`|✔|
+|241230|백준|[최소 힙](https://www.acmicpc.net/problem/1927)|`실버 2`|✔|
+|241230|백준|[최대 힙](https://www.acmicpc.net/problem/11279)|`실버 2`|✔|
