@@ -69,3 +69,4 @@
 |241230|백준|[최대 힙](https://www.acmicpc.net/problem/11279)|`실버 2`|✔|
 |241231|백준|[절댓값 힙](https://www.acmicpc.net/problem/11286)|`실버 1`|✔|
 |250102|프로그래머스|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|`LV.1`|✔|
+|250102|프로그래머스|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|`LV.2`|✔|
