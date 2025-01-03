@@ -71,3 +71,4 @@
 |250102|프로그래머스|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|`LV.1`|✔|
 |250102|프로그래머스|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|`LV.2`|✔|
 |250102|프로그래머스|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|`LV.2`|✔|
+|250103|백준|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|`실버 1`|✔|
