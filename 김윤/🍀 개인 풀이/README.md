@@ -74,3 +74,4 @@
 |250103|백준|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|`실버 1`|✔|
 |250103|백준|[크리스마스 선물](https://www.acmicpc.net/problem/14235)|`실버 3`|✔|
 |250103|백준|[예산](https://www.acmicpc.net/problem/2512)|`실버 2`|✔|
+|250103|백준|[게임](https://www.acmicpc.net/problem/1072)|`실버 3`|✔|
