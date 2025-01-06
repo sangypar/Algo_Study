@@ -76,3 +76,4 @@
 |250103|백준|[예산](https://www.acmicpc.net/problem/2512)|`실버 2`|✔|
 |250103|백준|[게임](https://www.acmicpc.net/problem/1072)|`실버 3`|✔|
 |250106|백준|[프린터 큐](https://www.acmicpc.net/problem/1966)|`실버 3`|✔|
+|250106|백준|[빙고](https://www.acmicpc.net/problem/2578)|`실버 4`|✔|
