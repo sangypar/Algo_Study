@@ -77,3 +77,4 @@
 |250103|백준|[게임](https://www.acmicpc.net/problem/1072)|`실버 3`|✔|
 |250106|백준|[프린터 큐](https://www.acmicpc.net/problem/1966)|`실버 3`|✔|
 |250106|백준|[빙고](https://www.acmicpc.net/problem/2578)|`실버 4`|✔|
+|250108|백준|[소수 구하기](https://www.acmicpc.net/problem/1929)|`실버 3`|✔|
