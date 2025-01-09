@@ -80,3 +80,4 @@
 |250108|백준|[소수 구하기](https://www.acmicpc.net/problem/1929)|`실버 3`|✔|
 |250108|백준|[스택 수열](https://www.acmicpc.net/problem/1874)|`실버 2`|✔|
 |250109|백준|[통계학](https://www.acmicpc.net/problem/2108)|`실버 3`|✔|
+|250109|백준|[solved.ac](https://www.acmicpc.net/problem/18110)|`실버 4`|✔|
