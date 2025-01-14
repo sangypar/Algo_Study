@@ -84,3 +84,4 @@
 |250109|백준|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|`실버 4`|✔|
 |250113|백준|[영역 구하기](https://www.acmicpc.net/problem/2583)|`실버 1`|✔|
 |250114|백준|[집합](https://www.acmicpc.net/problem/11723)|`실버 5`|✔|
+|250114|백준|[동전 0](https://www.acmicpc.net/problem/11047)|`실버 4`|✔|
