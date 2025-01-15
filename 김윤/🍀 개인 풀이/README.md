@@ -86,3 +86,4 @@
 |250114|백준|[집합](https://www.acmicpc.net/problem/11723)|`실버 5`|✔|
 |250114|백준|[동전 0](https://www.acmicpc.net/problem/11047)|`실버 4`|✔|
 |250115|백준|[ATM](https://www.acmicpc.net/problem/11399)|`실버 4`|✔|
+|250115|백준|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|`실버 4`|✔|
