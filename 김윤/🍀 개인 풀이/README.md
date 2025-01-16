@@ -90,3 +90,4 @@
 |250115|백준|[피보나치 함수](https://www.acmicpc.net/problem/1003)|`실버 3`|✔|
 |250116|백준|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|`실버 3`|✔|
 |250116|백준|[1로 만들기](https://www.acmicpc.net/problem/1463)|`실버 3`|✔|
+|250116|백준|[헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|`실버 2`|✔|
