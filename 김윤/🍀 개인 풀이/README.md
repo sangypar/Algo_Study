@@ -88,3 +88,4 @@
 |250115|백준|[ATM](https://www.acmicpc.net/problem/11399)|`실버 4`|✔|
 |250115|백준|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|`실버 4`|✔|
 |250115|백준|[피보나치 함수](https://www.acmicpc.net/problem/1003)|`실버 3`|✔|
+|250116|백준|[패션왕 신해빈(https://www.acmicpc.net/problem/9375)|`실버 3`|✔|
