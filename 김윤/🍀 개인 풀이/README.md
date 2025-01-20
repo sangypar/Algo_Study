@@ -94,3 +94,4 @@
 |250118|백준|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|`실버 1`|✔|
 |250119|백준|[회의실 배정](https://www.acmicpc.net/problem/1931)|`골드 5`|✔|
 |250120|백준|[계단 오르기](https://www.acmicpc.net/problem/2579)|`실버 3`|✔|
+|250120|백준|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|`실버 3`|✔|
