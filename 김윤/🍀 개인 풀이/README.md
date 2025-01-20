@@ -70,4 +70,27 @@
 |241231|백준|[절댓값 힙](https://www.acmicpc.net/problem/11286)|`실버 1`|✔|
 |250102|프로그래머스|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|`LV.1`|✔|
 |250102|프로그래머스|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|`LV.2`|✔|
-|250102|프로그래머스정](https://www.acmicpc.net/problem/1931)|`골드 5`|✔|
+|250102|프로그래머스|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|`LV.2`|✔|
+|250103|백준|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|`실버 1`|✔|
+|250103|백준|[크리스마스 선물](https://www.acmicpc.net/problem/14235)|`실버 3`|✔|
+|250103|백준|[예산](https://www.acmicpc.net/problem/2512)|`실버 2`|✔|
+|250103|백준|[게임](https://www.acmicpc.net/problem/1072)|`실버 3`|✔|
+|250106|백준|[프린터 큐](https://www.acmicpc.net/problem/1966)|`실버 3`|✔|
+|250106|백준|[빙고](https://www.acmicpc.net/problem/2578)|`실버 4`|✔|
+|250108|백준|[소수 구하기](https://www.acmicpc.net/problem/1929)|`실버 3`|✔|
+|250108|백준|[스택 수열](https://www.acmicpc.net/problem/1874)|`실버 2`|✔|
+|250109|백준|[통계학](https://www.acmicpc.net/problem/2108)|`실버 3`|✔|
+|250109|백준|[solved.ac](https://www.acmicpc.net/problem/18110)|`실버 4`|✔|
+|250109|백준|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|`실버 4`|✔|
+|250113|백준|[영역 구하기](https://www.acmicpc.net/problem/2583)|`실버 1`|✔|
+|250114|백준|[집합](https://www.acmicpc.net/problem/11723)|`실버 5`|✔|
+|250114|백준|[동전 0](https://www.acmicpc.net/problem/11047)|`실버 4`|✔|
+|250115|백준|[ATM](https://www.acmicpc.net/problem/11399)|`실버 4`|✔|
+|250115|백준|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|`실버 4`|✔|
+|250115|백준|[피보나치 함수](https://www.acmicpc.net/problem/1003)|`실버 3`|✔|
+|250116|백준|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|`실버 3`|✔|
+|250116|백준|[1로 만들기](https://www.acmicpc.net/problem/1463)|`실버 3`|✔|
+|250116|백준|[헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|`실버 2`|✔|
+|250118|백준|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|`실버 1`|✔|
+|250119|백준|[회의실 배정](https://www.acmicpc.net/problem/1931)|`골드 5`|✔|
+|250120|백준|[계단 오르기](https://www.acmicpc.net/problem/2579)|`실버 3`|✔|
