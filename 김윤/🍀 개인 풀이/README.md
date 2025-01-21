@@ -96,3 +96,4 @@
 |250120|백준|[계단 오르기](https://www.acmicpc.net/problem/2579)|`실버 3`|✔|
 |250120|백준|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|`실버 3`|✔|
 |250121|백준|[파도반 수열](https://www.acmicpc.net/problem/9461)|`실버 3`|✔|
+|250121|백준|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|`실버 3`|✔|
