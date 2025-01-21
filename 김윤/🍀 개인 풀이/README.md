@@ -95,3 +95,4 @@
 |250119|백준|[회의실 배정](https://www.acmicpc.net/problem/1931)|`골드 5`|✔|
 |250120|백준|[계단 오르기](https://www.acmicpc.net/problem/2579)|`실버 3`|✔|
 |250120|백준|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|`실버 3`|✔|
+|250121|백준|[파도반 수열](https://www.acmicpc.net/problem/9461)|`실버 3`|✔|
