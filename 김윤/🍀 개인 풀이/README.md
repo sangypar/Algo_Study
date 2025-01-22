@@ -98,3 +98,4 @@
 |250121|백준|[파도반 수열](https://www.acmicpc.net/problem/9461)|`실버 3`|✔|
 |250121|백준|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|`실버 3`|✔|
 |250121|백준|[2xn 타일링](https://www.acmicpc.net/problem/11726)|`실버 3`|✔|
+|250122|백준|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|`실버 3`|✔|
