@@ -100,3 +100,4 @@
 |250121|백준|[2xn 타일링](https://www.acmicpc.net/problem/11726)|`실버 3`|✔|
 |250122|백준|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|`실버 3`|✔|
 |250122|백준|[Four Squares](https://www.acmicpc.net/problem/17626)|`실버 3`|✔|
+|250122|백준|[Z](https://www.acmicpc.net/problem/1074)|`골드 5`|✔|
